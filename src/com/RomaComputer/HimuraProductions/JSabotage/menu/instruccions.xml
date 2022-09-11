@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : instruccions.xml
+    Created on : 27 de abril de 2009, 01:42 PM
+    Author     : Cesar Himura
+    Description:
+        Purpose of the document follows.
+-->
+
+<INSTRUCCIONS>
+    <FONT>/com/RomaComputer/HimuraProductions/JSabotage/fonts/256BYTES.TTF</FONT>
+    <TOTAL_ROWS>16</TOTAL_ROWS>
+    <SIZE_ROW>30</SIZE_ROW>
+    <ROW1>************** SABOTAGE **************</ROW1>
+    <ROW2>The object of Sabotage is to score as many points</ROW2>
+    <ROW3>as posible before the enemy destroy your gun</ROW3>
+    <ROW4>emplacement your gun may be destroyed either by a</ROW4>
+    <ROW5>hit from an enemy bomb or by sabotage when enough</ROW5>
+    <ROW6>paratrooper have reached the ground. The gun may be</ROW6>
+    <ROW7>controlled with the keyboard. Pressing left arrow</ROW7>
+    <ROW8>will move the gun counter-clockwise and right arrow</ROW8>
+    <ROW9>will move it clockwise, the space bar key will</ROW9>
+    <ROW10>fire a shell Firing a shell costs one point.</ROW10>
+    <ROW11>TARGET               POINTS</ROW11>
+    <ROW12>========              ========</ROW12>
+    <ROW13>Bomb                       25</ROW13>
+    <ROW14>Helicopter               5</ROW14>
+    <ROW15>Jet                           5</ROW15>
+    <ROW16>Paratrooper            2</ROW16>
+    <ROW17></ROW17>
+    <ROW18></ROW18>
+</INSTRUCCIONS>
