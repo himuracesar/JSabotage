@@ -1,6 +1,6 @@
 # JSabotage
 
-[![JSabotageToGif.md.gif](https://s4.gifyu.com/images/JSabotageToGif.md.gif)](https://gifyu.com/image/SwrXb)
+[![JSabotageToGif.gif](https://s4.gifyu.com/images/JSabotageToGif.gif)](https://gifyu.com/image/SwrXb)
 
 It's a clone of the game **Sabotage** developed by Mark Allen for the Apple II in 1982.
 
